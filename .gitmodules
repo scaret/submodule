@@ -1,0 +1,3 @@
+[submodule "node-windows"]
+	path = node-windows
+	url = https://scaret@github.com/scaret/node-windows
